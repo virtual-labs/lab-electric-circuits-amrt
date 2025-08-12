@@ -15,77 +15,77 @@
     "name": "Parallel RC Circuits",
     "short-name": "parallel-rc-circuits",
     "repo": "https://github.com/virtual-labs/exp-parallel-rc-circuits-amrt",
-    "tag": "v1.0.0",
+    "tag": "v1.0.1",
     "deploy": true
   },
   {
     "name": "Parallel LC Circuits",
     "short-name": "parallel-lc-circuits",
     "repo": "https://github.com/virtual-labs/exp-parallel-lc-circuits-amrt",
-    "tag": "v1.0.0",
+    "tag": "v1.0.1",
     "deploy": true
   },
   {
     "name": "Parallel RL Circuits",
     "short-name": "parallel-rl-circuits",
     "repo": "https://github.com/virtual-labs/exp-parallel-rl-circuits-amrt",
-    "tag": "v1.0.0",
+    "tag": "v1.0.1",
     "deploy": true
   },
   {
     "name": "Parallel LCR Circuits",
     "short-name": "parallel-lcr-circuits",
     "repo": "https://github.com/virtual-labs/exp-parallel-lcr-circuits-amrt",
-    "tag": "v1.0.0",
+    "tag": "v1.0.1",
     "deploy": true
   },
   {
     "name": "Thevenin's Theorem",
     "short-name": "thevenins-theorem",
     "repo": "https://github.com/virtual-labs/exp-thevenins-theorem-amrt",
-    "tag": "v1.0.0",
+    "tag": "v1.0.1",
     "deploy": true
   },
   {
     "name": "Norton's theorem",
     "short-name": "nortons-theorem",
     "repo": "https://github.com/virtual-labs/exp-nortons-theorem-amrt",
-    "tag": "v1.0.0",
+    "tag": "v1.0.1",
     "deploy": true
   },
   {
     "name": "Kirchhoff's Laws",
     "short-name": "kirchhoffs-laws",
     "repo": "https://github.com/virtual-labs/exp-kirchhoffs-laws-amrt",
-    "tag": "v1.0.0",
+    "tag": "v1.0.1",
     "deploy": true
   },
   {
     "name": "Series RL Circuits",
     "short-name": "series-rl-circuits",
     "repo": "https://github.com/virtual-labs/exp-series-rl-circuits-amrt",
-    "tag": "v1.0.0",
+    "tag": "v1.0.1",
     "deploy": true
   },
   {
     "name": "Series RC Circuits",
     "short-name": "series-rc-circuits",
     "repo": "https://github.com/virtual-labs/exp-series-rc-circuits-amrt",
-    "tag": "v1.0.0",
+    "tag": "v1.0.1",
     "deploy": true
   },
   {
     "name": "Series LC Circuits",
     "short-name": "series-lc-circuits",
     "repo": "https://github.com/virtual-labs/exp-series-lc-circuits-amrt",
-    "tag": "v1.0.0",
+    "tag": "v1.0.1",
     "deploy": true
   },
   {
     "name": "Series LCR Circuits",
     "short-name": "series-lcr-circuits",
     "repo": "https://github.com/virtual-labs/exp-series-lcr-circuits-amrt",
-    "tag": "v1.0.0",
+    "tag": "v1.0.1",
     "deploy": true
   }
 ],
